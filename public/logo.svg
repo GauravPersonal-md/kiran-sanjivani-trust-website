@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="24" fill="#2d6a4f"/>
+  <path d="M60 28c-8 14-22 22-22 36a22 22 0 1 0 44 0c0-14-14-22-22-36z" fill="#e9b949"/>
+  <text x="60" y="98" text-anchor="middle" fill="white" font-family="Georgia, serif" font-size="11" font-weight="bold">KST</text>
+</svg>
