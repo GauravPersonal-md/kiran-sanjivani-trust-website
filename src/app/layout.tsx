@@ -27,6 +27,13 @@ export const metadata: Metadata = {
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,
+
+  icons: {
+    icon: "/logo.jpeg",
+    shortcut: "/logo.jpeg",
+    apple: "/logo.jpeg",
+  },
+
   keywords: [
     "NGO",
     "Kiran Sanjivani Trust",
@@ -93,9 +100,9 @@ function StructuredData() {
     telephone: siteConfig.phone,
     address: {
       "@type": "PostalAddress",
-      streetAddress: "123 Community Center Road, Sector 15",
-      addressLocality: "New Delhi",
-      postalCode: "110001",
+      streetAddress: "Gangotri vihar kaniya, Ramnagar, Nainital",
+      addressLocality: "Uttarakhand",
+      postalCode: "244715",
       addressCountry: "IN",
     },
     sameAs: Object.values(socialLinks),
