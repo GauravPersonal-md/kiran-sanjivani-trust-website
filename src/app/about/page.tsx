@@ -54,7 +54,7 @@ export default function AboutPage() {
               <p className="mt-4 leading-relaxed text-muted-foreground">
                 Kiran Sanjivani Trust was born from a vision to create an inclusive society
                 where every individual — regardless of background, ability, or circumstance —
-                has access to education, healthcare, and opportunity. Founded by Dr. Meera Kapoor,
+                has access to education, healthcare, and opportunity. Founded by Kiran Mathpal,
                 our organization has grown from a grassroots initiative to a nationally recognized NGO.
               </p>
               <p className="mt-4 leading-relaxed text-muted-foreground">
